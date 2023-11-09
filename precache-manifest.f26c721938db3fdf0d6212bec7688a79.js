@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "046b168bc90901fdd06878b3f72b04e3",
+    "revision": "05340625fed6228e17420b54bbc78794",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.9bcbe2c8.chunk.css"
   },
   {
-    "revision": "be2dc8936f6e7456632b",
+    "revision": "b47ed057ba36266a8cee",
     "url": "/static/css/main.b3784b74.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.8ab5db09.chunk.js"
   },
   {
-    "revision": "be2dc8936f6e7456632b",
-    "url": "/static/js/main.7a1a4efd.chunk.js"
+    "revision": "b47ed057ba36266a8cee",
+    "url": "/static/js/main.cd8dd74b.chunk.js"
   },
   {
     "revision": "5a1026018677e917ed80",
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ontology.38f582de.svg"
   },
   {
-    "revision": "8120aa4f5a9c575ed64b5f1a564c5d90",
-    "url": "/static/media/semanticBook.8120aa4f.jpeg"
+    "revision": "ddf08dc6728ee592853e401035619f95",
+    "url": "/static/media/semanticBook.ddf08dc6.jpeg"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
