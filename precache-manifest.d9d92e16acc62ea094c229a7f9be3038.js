@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "341fdfacc285fb98f84e46d6253f4611",
+    "revision": "ce39a9fa48a9f937e525e412397458c8",
     "url": "/index.html"
   },
   {
-    "revision": "79b997eab2b288b20565",
+    "revision": "f4de61f56be741e4d4f1",
     "url": "/static/css/3.c0dafdd6.chunk.css"
   },
   {
-    "revision": "875d945b9f295efbd4bd",
+    "revision": "753dab0eb10264889de8",
     "url": "/static/css/4.9bcbe2c8.chunk.css"
   },
   {
-    "revision": "5923b5ad0ba6225732d8",
+    "revision": "ca31f5700843dd30c8f5",
     "url": "/static/css/main.c32e917d.chunk.css"
   },
   {
-    "revision": "9041e741759b4c3700f7",
-    "url": "/static/js/2.870a9ecd.chunk.js"
+    "revision": "80242a84261257ca395d",
+    "url": "/static/js/2.2db3d789.chunk.js"
   },
   {
     "revision": "f7adbd266a09abea79a62d44bf1152c3",
-    "url": "/static/js/2.870a9ecd.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2db3d789.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "79b997eab2b288b20565",
-    "url": "/static/js/3.7ce71fc8.chunk.js"
+    "revision": "f4de61f56be741e4d4f1",
+    "url": "/static/js/3.5bd091d9.chunk.js"
   },
   {
-    "revision": "875d945b9f295efbd4bd",
-    "url": "/static/js/4.191837db.chunk.js"
+    "revision": "753dab0eb10264889de8",
+    "url": "/static/js/4.7cb979c1.chunk.js"
   },
   {
-    "revision": "5923b5ad0ba6225732d8",
-    "url": "/static/js/main.59cd11aa.chunk.js"
+    "revision": "ca31f5700843dd30c8f5",
+    "url": "/static/js/main.06b66666.chunk.js"
   },
   {
-    "revision": "e215bc88cb4ed5e3cc45",
-    "url": "/static/js/runtime-main.fa6fd9b5.js"
+    "revision": "6eafafda74f0f10190f7",
+    "url": "/static/js/runtime-main.fae82676.js"
   },
   {
     "revision": "cb80ceaabdc240f178d1ad9b2491810e",
@@ -90,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52b57861ccb5a9dbc505725d8f02151e",
     "url": "/static/media/sopraSteriaLogo.52b57861.png"
+  },
+  {
+    "revision": "47a15dd8a3c7841a2e4f4e12df5749bc",
+    "url": "/static/media/tavanaLogo.47a15dd8.png"
   },
   {
     "revision": "7bfe8912fc4fa61a7aa268a210eddf4d",
