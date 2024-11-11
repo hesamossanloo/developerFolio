@@ -1,5 +1,34 @@
 export const workExpArray = [
   {
+    role: "Cofounder and CTO",
+    company: "SkogApp/TAVANA",
+    companylogo: require("../assets/images/skogAppLogo.png"),
+    date: "Jan 2023 – Present (Oslo, Norway)",
+    desc: `Cofounded two companies: one in healthcare and the other in forestry 
+          and earth remote-sensing, and successfully raised pre-seed funding.
+          SkogApp AS: Conducted several interviews with potential customers. 
+          Successfully built the first MVP (https://app.skogapp.no/). To help foresters 
+          earn more out of their forest by optimizing operations, forest inventory, and carbon-crediting.
+          Automated the process of creating a forestry plan from 2 years to 30 minutes.
+          TAVANA AS: Successfully raised a pre-seed round and built the first MVP. 
+          The Product was Automatic medical-coding for healthcare professionals.
+          Hired and mentored 5 employees. Built the first medical LLM in Norwegian. 
+          Collaborated with Harvard Medical School and MIT to train BERT for medical 
+          purposes. Contributed to the open-source AI community by publishing annotated data and LLMs.
+          I designed a microservice architecture, using the API gateway, Serverless 
+          function, messaging services (Kafka/Redis/SQS), and SQL and NoSQL Databases to 
+          achieve a secure scalable web application. For quality and performance optimization, 
+          I used the CI/CD practices via GitHub actions, Terraform, and Netlify/AWS Serverless technologies.
+`,
+    descBullets: [
+      `Skills & Technologies: Leadership · Team Building · Critical thinking · AWS · Agile Application
+      Development · Serverless Computing · Full-Stack Development · Ontology Engineering · Enterprise
+      Architecture · Technical Leadership · Cloud Computing · JS · CI/CD · TypeScript · React · React Native,
+      Semantic Search · Test Automation · ML · LLM · Cloud Applications · Geographic Information
+      Systems (GIS) · Satellite Imagery`
+    ]
+  },
+  {
     role: "Head of Engineering",
     company: "Spark Sport NZ",
     companylogo: require("../assets/images/sparksportLogo.png"),
@@ -20,7 +49,7 @@ export const workExpArray = [
         their preferred way and not the other way around. See the CV for 
         more details about the projects.`,
     descBullets: [
-      `Technologies: Leadership · Team Building · Enterprise Architecture · 
+      `Skills & Technologies: Leadership · Team Building · Enterprise Architecture · 
        TypeScript · Node.js · CI/CD · Git · Test Automation · Serverless 
        Framework · Azure · AWS · Security · PCI DSS · Agile Scrum`
     ]
@@ -47,7 +76,7 @@ export const workExpArray = [
         pride in mentoring younger developers and enthusiasts. See the CV for 
         more details about the projects.`,
     descBullets: [
-      `Technologies: TypeScript · ReactJS · NodeJS  · Serverless Framework · 
+      `Skills & Technologies: Leadership · Team Building · Enterprise Archtecture · TypeScript · ReactJS · NodeJS  · Serverless Framework · 
        AWS · Git · Eslint · Scrum/ Kanban · CI/CD · Intellij · RESTful WS · 
        SQL · Docker · Oauth2 · Jest · Cucumber · Yarn · NPM · Layered APIs`
     ]
@@ -79,7 +108,7 @@ export const workExpArray = [
         deployed our products with a click of a button from the Dev environment
         to UAT then Prod. See the CV for more details about the projects.`,
     descBullets: [
-      `Technologies: TypeScript · ReactJS · NodeJS · Eslint · Azure · Git · 
+      `Skills & Technologies: Leadership · Team Building · Enterprise Archtecture · TypeScript · ReactJS · NodeJS · Eslint · Azure · Git · 
       Scrum/ Kanban · Atlassian · CI/CD · Intellij · RESTful WS · SQL · HTML5 · 
       CSS3 · Docker · Oauth2 · Cypress.io · Jest · Mocha · Sinon · Webpack · 
       Yarn · NPM · VITE · Material-UI`
@@ -100,7 +129,7 @@ export const workExpArray = [
         A badge framework application that helps employees track their career 
         progression. See the CV for more details about the projects.`,
     descBullets: [
-      `Technologies: TypeScript · ReactJS · NodeJS · Redux · Azure · Eslint · 
+      `Skills & Technologies: Leadership · Team Building · Enterprise Archtecture · TypeScript · ReactJS · NodeJS · Redux · Azure · Eslint · 
        Java8 · Scrum · CI/CD · GraphQL · Redis · Kafka · Git · Atlassian · 
        Gulp · Intellij · RESTful WS · SQL · HTML5 · CSS3 · Docker · 
        PostgreSQL · Cucumber.js · Oauth2 · Cypress.io · Jest · Mocha · Sinon · 
@@ -118,7 +147,7 @@ export const workExpArray = [
         and add more value to the data, and show them in a more readable and
         friendlier manner to the user. See CV for more details about the projects.`,
     descBullets: [
-      `Technologies: Angular6 (NG6) · Git · Atlassian · GitLab · Gulp · 
+      `Skills & Technologies: Angular6 (NG6) · Git · Atlassian · GitLab · Gulp · 
       Intellij · RESTful WS · SQL · HTML5 · CSS3 · Docker · Spring · JEE · 
       Primefaces · JSF2 · Oracle`
     ]
@@ -133,7 +162,7 @@ export const workExpArray = [
         developers (on-shore and off-shore) towards a common goal, ranging from 
         various projects. See CV for more details about the projects.`,
     descBullets: [
-      `Technologies: JavaScript · Java 8 · HTML5 · CSS3 · jQuery · Atlassian · 
+      `Skills & Technologies: Leadership · Team Building · Enterprise Archtecture · JavaScript · Java 8 · HTML5 · CSS3 · jQuery · Atlassian · 
       Alfresco ECM · Activiti · Intellij · Linux · Git · Maven · RESTful WS · 
       Spring framework · Hibernate · SQL · Lucene · Tomcat 8 · Jenkins · 
       Vaadin · Liferay · Sass · Less · Tomcat 8 · Splunk · Spring framework · 

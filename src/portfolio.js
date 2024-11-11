@@ -31,13 +31,13 @@ const greeting = {
   username: "Hesam Ossanloo",
   title: "Heya, I'm Hesam",
   subTitle: emoji(
-    `I'm a cofounder, proactive technology and people leader with 19+ years of experience in leadership and software 
-development across multiple disciplines and tech stacks for startups and established companies. A volunteer PhD 
-candidate focusing on Semantic Search and Ontology (Dropped out) and research fellow at Planetary Transportation Systems 
+    `I'm a cofounder, proactive technology and people leader with 15+ years of experience in leadership and software 
+development across multiple disciplines and tech stacks for startups and established companies. Outside my job,
+I started my PhD (Incomplete) on Semantic Search and Ontology and was a research fellow at Planetary Transportation Systems 
 working on sending a lunar rover to the Moon. Passionate about 
 working in great teams focusing on quality, personal development, mentoring and solving problems.`
   ),
-  resumeLink: "Hesam-CV-EN.pdf", // Set to empty to hide the button
+  resumeLink: "Hesam-Head-Of-Engineering-CV-EN.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -58,7 +58,7 @@ const skillsSection = {
     "Enthusiast Engineer Leader, Solving complex problems, finding and mentoring talents",
   skills: [
     emoji(
-      "⚡ Leading teams to build highly scalable, reliable, secure, cost-efficient and performant cloud solutions."
+      "⚡ Building & Leading teams to build highly scalable, reliable, secure, cost-efficient and performant cloud solutions."
     ),
     emoji(
       "⚡ Building interactive Frontend / Backend for your web, tablet, mobile and smart TV applications."
@@ -67,7 +67,7 @@ const skillsSection = {
       "⚡ Finding solutions for automatic CI/CD pipeline, release process, code quality, monitoring and data analysis."
     ),
     emoji(
-      "⚡ Solving complex problems regardless of the industry and teaching teams how to approach such problems."
+      "⚡ Solving complex problems using different AI approaches (LLM, ML) regardless of the industry and teaching teams how to approach such problems."
     )
   ],
 
@@ -76,12 +76,20 @@ const skillsSection = {
 
   softwareSkills: [
     {
+      skillName: "LLM",
+      fontAwesomeClassname: "fas fa-project-diagram"
+    },
+    {
       skillName: "AWS",
       fontAwesomeClassname: "fab fa-aws"
     },
     {
       skillName: "Azure",
       fontAwesomeClassname: "fabi fa-azure"
+    },
+    {
+      skillName: "GCP",
+      fontAwesomeClassname: "fas fa-cloud"
     },
     {
       skillName: "TypeScript",
@@ -98,6 +106,10 @@ const skillsSection = {
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
+    },
+    {
+      skillName: "Python",
+      fontAwesomeClassname: "fab fa-python"
     },
     {
       skillName: "NPM",
@@ -164,8 +176,8 @@ const educationInfo = {
       schoolName:
         "Hochschule Darmstadt - University of Applied Sciences (Germany)",
       logo: require("./assets/images/hdaLogo.png"),
-      subHeader: "Phd. in Computer Science (Dropped out)",
-      duration: "September 2015 - September 2023",
+      subHeader: "Phd. in Computer Science (Incomplete)",
+      duration: "September 2016 - September 2022",
       desc: "Focus: Semantic search, Ontology, Big Data, Machine learning, AI, ETL, Search result clustering, Semantic Web, Taxonomy, Linked Open Data, Information Retrieval, Semantic Information Visualization."
     },
     {
@@ -230,6 +242,35 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
+      image: require("./assets/images/skogAppLogo.png"),
+      projectName: "SkogApp",
+      projectDesc: `Building a forest management system, using ML and remote-sensing, 
+      that helps forest owners to manage their forest, calculate the value of their forest, 
+      plan for the future and sell their forest. Currently in Norway it takes ca. two years 
+      to create a forestry plan. With SkogApp, we reduced it to 30 minutes.`,
+
+      footerLink: [
+        {
+          name: "Company website",
+          url: "https://app.skogapp.no/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/tavanaLogo.png"),
+      projectName: "TAVANA",
+      projectDesc: `Building the first medical Norwegian LLM that helped doctors to acheive automatic 
+      medical-coding (ICD-10). This saved each doctor 1 hour per day. Which adds up to tens of thousands 
+      of dollars per year per doctor. For a typiucal hospital, this means millions of dollars per year.`,
+
+      footerLink: [
+        {
+          name: "Company dissolved",
+          url: ""
+        }
+      ]
+    },
+    {
       image: require("./assets/images/sparksportLogo.png"),
       projectName: "Spark Sport App",
       projectDesc: `Building scalable live streaming and video-on-demand 
@@ -237,10 +278,9 @@ const bigProjects = {
           Smart TVs, Tablet, Desktop ...`,
       footerLink: [
         {
-          name: "Visit Website",
-          url: "https://www.sparksport.co.nz/"
+          name: "Company got acquired by TVNZ",
+          url: "https://www.spark.co.nz/getmore/spark-sport-closure/?srsltid=AfmBOoqyItMk3M5WaPrR8_s6sh64u31EYP5K3qx73wENkD0j254LaBEo"
         }
-        //  you can add extra buttons here.
       ]
     },
     {
