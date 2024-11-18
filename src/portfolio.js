@@ -37,7 +37,7 @@ I started my PhD (Incomplete) on Semantic Search and Ontology and was a research
 working on sending a lunar rover to the Moon. Passionate about 
 working in great teams focusing on quality, personal development, mentoring and solving problems.`
   ),
-  resumeLink: "Hesam-Head-Of-Engineering-CV-EN.pdf", // Set to empty to hide the button
+  resumeLink: "Hesam-Ossanloo-CV-EN.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
